@@ -26,12 +26,12 @@ Joining the FISH WARRIORS arena allows players to both have fun and earn extra p
 
 ### Smart contract&#x20;
 
-| Smart contract          | Symbol | Address                                    |
-| ----------------------- | ------ | ------------------------------------------ |
-| Fish Warriors Token     | FWR    | 0x2E5E474F0f1d8EC2701DcbEbC1D54B84B73ec28F |
-| Fish Warriors Character | FWRC   | 0xA4DCBB1Ac31FA7452d5d8d022817b85eA7a283F9 |
-| Fish Warriors Weapon    | FWRW   | 0xAB4A4C800D2f64E1F4CA73775697F6675b54d8ff |
-| FWR Marketplace         |        | 0xd654ff87FD6EaA32307DACFE73828056Bcb86f6E |
-| FWR Games               |        | 0xc41ce43F302d499A2499a74d44263c2165dA6B4F |
+| Smart contract                | Symbol | Address                                    |
+| ----------------------------- | ------ | ------------------------------------------ |
+| Fish Warriors Token           | FWR    | 0x2E5E474F0f1d8EC2701DcbEbC1D54B84B73ec28F |
+| Fish Warriors Character (NFT) | FWRC   | 0xA4DCBB1Ac31FA7452d5d8d022817b85eA7a283F9 |
+| Fish Warriors Weapon (NFT)    | FWRW   | 0xAB4A4C800D2f64E1F4CA73775697F6675b54d8ff |
+| FWR Marketplace               |        | 0xd654ff87FD6EaA32307DACFE73828056Bcb86f6E |
+| FWR Games                     |        | 0xc41ce43F302d499A2499a74d44263c2165dA6B4F |
 
 ###
