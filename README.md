@@ -17,6 +17,7 @@ Joining the FISH WARRIORS arena allows players to both have fun and earn extra p
 | Official website   | [http://fishwarriors.com](http://fishwarriors.com)                                            |   |   |
 | ------------------ | --------------------------------------------------------------------------------------------- | - | - |
 | Telegram           | [https://t.me/FishWarriors](https://t.me/FishWarriors)                                        |   |   |
+| Announcements      | [https://t.me/FishWarriorsChannel](https://t.me/FishWarriorsChannel)                          |   |   |
 | GitBook whitepaper | [https://docs.fishwarriors.com](https://docs.fishwarriors.com)                                |   |   |
 | ​Twitter           | [https://twitter.com/WarriorsFish](https://twitter.com/WarriorsFish)                          |   |   |
 | Facebook           | [https://www.facebook.com/BSCGameFishWarriors](https://www.facebook.com/BSCGameFishWarriors/) |   |   |
